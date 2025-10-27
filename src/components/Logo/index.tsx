@@ -9,7 +9,8 @@ export function Logo() {
           src='/tardis.png'
           alt='TARDIS Pomodoro'
         />
-        <span>TARDIS Pomodoro</span>
+        <span>TARDIS</span>
+        <span>Pomodoro</span>
       </a>
     </div>
   );
